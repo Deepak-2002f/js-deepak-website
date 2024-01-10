@@ -1,2 +1,2 @@
-# js-deepak-website
+# js-deepak-website-design
 Website design
